@@ -1,0 +1,56 @@
+	html{
+		background-image: 
+			url( laa background pattern mint.png);
+	}
+	
+	
+	header{
+		font-size: 11px;
+	}
+	body{
+	background-color: white;
+	color:#090909;
+	text-align:center;
+	font-family:"Avant Garde";
+	}
+	
+	h1{
+		font-family: 'Open Sans', sans-serif;
+}
+	header{
+		text-align: left;
+		margin-top: 100px;
+		margin-left: 200px;
+		margin-right: 200px;
+		font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"; 
+		letter-spacing: 4px;
+		}
+
+	a{
+		font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+		color: black;
+		font-size: 11px;
+		text-decoration: none;
+		}
+	:hover{
+		color: #BCE8DD
+	}
+
+	p{
+		font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"
+			color: black;
+		text-align: center;
+		letter-spacing: 4px;
+	}
+	
+	body{
+		font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+		font-size: 11px;
+	}
+	
+	p3{
+		letter-spacing: 5px;
+		color: black;
+		margin-left: 24px;
+	}
+	
